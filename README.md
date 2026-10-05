@@ -1,31 +1,31 @@
-Hi, I'm Mayank 👋
+### Hi, I'm Mayank 👋
 
-I'm a final-year CS student learning backend development and applied AI engineering. My focus is building backend systems with Python and FastAPI, and learning how to integrate AI into them properly — things like RAG, embeddings, and LLM-powered features. I'm still early in the journey and building in public as I go.
+Final-year CS student learning backend development and applied AI engineering. I build backend systems with Python and FastAPI, and I'm learning how to integrate AI into them — RAG, embeddings, and LLM-powered features. Still early in the journey and building in public as I go.
 
-What I'm focused on
+**Tech I work with**
 
-Backend development with Python and FastAPI
-Databases: PostgreSQL and SQL
-Learning applied AI integration — RAG, embeddings, and LLM APIs
-Alongside this: Pandas, NumPy, and SQL for data analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-Tech I work with
+**Tools I've worked with (not specialized in)**
 
-Show Image Show Image Show Image Show Image Show Image
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Tools I've worked with (not specialized in)
+🌱 **Currently deepening:** Pandas, NumPy, and SQL-for-analytics — so the backends I already build can start explaining themselves, not just storing rows.
 
-Show Image Show Image
+**Featured projects**
 
-🌱 Currently learning: Pandas, NumPy, and SQL for analytics — so the backends I build can help explain the data they store, not just hold it.
+- 💰 **[ExpenseFlow](https://github.com/saxenamayank-20/Expense_Flow)** — multi-user expense tracker with auto-generated spending insights, interactive charts, and dark mode. React + FastAPI + Postgres (Neon).
+- 📋 **[College Complaint Portal](https://github.com/saxenamayank-20/College_Complaint_Portal)** — role-based grievance management system for students and administrators.
+- 🤖 **[AI-Powered College Complaint Portal](https://github.com/saxenamayank-20/AI_Powered_College_Complaint_Portal)** — grievance system with AI-based complaint categorization, priority detection, and summarization.
+- 📦 **[Inventory Manager](https://github.com/saxenamayank-20/Inventory_Manager)** — full-stack inventory system with real-time CRUD and dashboards.
 
-Projects
+**Reach me**
 
-💰 ExpenseFlow — a multi-user expense tracker with spending insights, charts, and dark mode. Built with React, FastAPI, and Postgres (Neon). Deployed and working.
-📋 College Complaint Portal — a role-based grievance management system for students and administrators.
-🤖 AI-Powered College Complaint Portal — the complaint portal extended with AI-based categorization, priority detection, and summarization.
-📦 Inventory Manager — a full-stack inventory system with CRUD and dashboards.
-
-Reach me
-
-LinkedIn X Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksaxenaofficial)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/themayanksaxena)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxenamayank1972@gmail.com)
