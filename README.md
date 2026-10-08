@@ -21,7 +21,6 @@ Final-year CS student learning backend development and applied AI engineering. I
 
 - 💰 **[ExpenseFlow](https://github.com/saxenamayank-20/Expense_Flow)** — multi-user expense tracker with auto-generated spending insights, interactive charts, and dark mode. React + FastAPI + Postgres (Neon).
 - 📋 **[College Complaint Portal](https://github.com/saxenamayank-20/College_Complaint_Portal)** — role-based grievance management system for students and administrators.
-- 🤖 **[AI-Powered College Complaint Portal](https://github.com/saxenamayank-20/AI_Powered_College_Complaint_Portal)** — grievance system with AI-based complaint categorization, priority detection, and summarization.
 - 📦 **[Inventory Manager](https://github.com/saxenamayank-20/Inventory_Manager)** — full-stack inventory system with real-time CRUD and dashboards.
 
 **Reach me**
