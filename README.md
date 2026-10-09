@@ -19,8 +19,8 @@ Final-year CS student learning backend development and applied AI engineering. I
 
 **Featured projects**
 
+- 📚 **[Syllabo](https://github.com/saxenamayank-20/Syllabo)** — AI study planner that builds day-by-day schedules with Gemini around exams, weak subjects and available study time, plus subject-wise performance tracking. React + FastAPI + Postgres (Neon).
 - 💰 **[ExpenseFlow](https://github.com/saxenamayank-20/Expense_Flow)** — multi-user expense tracker with auto-generated spending insights, interactive charts, and dark mode. React + FastAPI + Postgres (Neon).
-- 📋 **[College Complaint Portal](https://github.com/saxenamayank-20/College_Complaint_Portal)** — role-based grievance management system for students and administrators.
 - 📦 **[Inventory Manager](https://github.com/saxenamayank-20/Inventory_Manager)** — full-stack inventory system with real-time CRUD and dashboards.
 
 **Reach me**
