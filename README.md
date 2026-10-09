@@ -1,4 +1,4 @@
-### Hi, I'm Mayank 👋
+# Hi, I'm Mayank 👋
 
 I started with data science, but I found I enjoy building the systems behind an app the most. Today I build backends with Python and FastAPI, add AI where it genuinely helps, and ship my projects so others can use them. Still learning every day, and sharing it as I go.
 
@@ -16,13 +16,13 @@ I started with data science, but I found I enjoy building the systems behind an 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-### Featured projects
+## Featured projects
 
 - 📚 **[Syllabo](https://github.com/saxenamayank-20/Syllabo)** — AI study planner that builds day-by-day schedules with Gemini around exams, weak subjects and available study time, plus subject-wise performance tracking. React + FastAPI + Postgres (Neon).
 - 💰 **[ExpenseFlow](https://github.com/saxenamayank-20/Expense_Flow)** — multi-user expense tracker with auto-generated spending insights, interactive charts, and dark mode. React + FastAPI + Postgres (Neon).
 - 📦 **[Inventory Manager](https://github.com/saxenamayank-20/Inventory_Manager)** — full-stack inventory system with real-time CRUD and dashboards.
 
-### Live projects
+## Live projects
 
 Try them out:
 
@@ -32,7 +32,7 @@ Try them out:
 
 ---
 
-### Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksaxenaofficial)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/themayanksaxena)
