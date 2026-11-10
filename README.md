@@ -18,17 +18,17 @@ I started with data science, but I found I enjoy building the systems behind an 
 
 ## Featured projects
 
+- 🎓 **[EchoCampus](https://github.com/saxenamayank-20/EchoCampus)** — college grievance portal where AI sorts complaints, spots duplicates, answers rule questions from the student handbook (RAG) and writes a weekly report for the admin. Complaints get routed to the right manager with SLA deadlines and only close after the student confirms the fix. React + FastAPI + Postgres (Neon, pgvector) + LangGraph.
 - 📚 **[Syllabo](https://github.com/saxenamayank-20/Syllabo)** — AI study planner that builds day-by-day schedules with Gemini around exams, weak subjects and available study time, plus subject-wise performance tracking. React + FastAPI + Postgres (Neon).
 - 💰 **[ExpenseFlow](https://github.com/saxenamayank-20/Expense_Flow)** — multi-user expense tracker with auto-generated spending insights, interactive charts, and dark mode. React + FastAPI + Postgres (Neon).
-- 📦 **[Inventory Manager](https://github.com/saxenamayank-20/Inventory_Manager)** — full-stack inventory system with real-time CRUD and dashboards.
 
 ## Live projects
 
 Try them out:
 
+[![EchoCampus](https://img.shields.io/badge/EchoCampus-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://echo-campus-mu.vercel.app/)
 [![Syllabo](https://img.shields.io/badge/Syllabo-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syllabo-app.vercel.app/)
 [![ExpenseFlow](https://img.shields.io/badge/ExpenseFlow-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://expense-flow-opal.vercel.app/)
-[![Inventory Manager](https://img.shields.io/badge/Inventory_Manager-Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://inventorymanager-20.streamlit.app/)
 
 ---
 
